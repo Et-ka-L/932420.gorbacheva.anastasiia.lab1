@@ -1,0 +1,56 @@
+.fon{
+    background-color: #010029;
+}
+
+.shapka{
+    background-color: #00008B;
+    color: #3091ff;
+}
+
+.navigation-list{
+    list-style: none;
+}
+
+.container{
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    background-color: #041152;
+    color: #3091ff;
+}
+
+.main-section{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    column-gap: 15px;
+}
+
+.side-info{
+    width: 300px;
+}
+
+.form-wrapper {
+  display: flex;
+  align-items: flex-start;
+  gap: 30px;
+  max-width: 600px;
+  width: 100%;
+}
+
+.user-avatar {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.feedback-form {
+  flex: 1;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 15px;
+}

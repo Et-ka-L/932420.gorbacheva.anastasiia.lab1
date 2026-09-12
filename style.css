@@ -7,6 +7,13 @@
     color: #3091ff;
 }
 
+* {
+  a:link    {color:#3091ff; text-decoration:none}
+  a:visited {color:#5c2e7f; text-decoration:none}
+  a:hover   {color:#043cc9; text-decoration:underline}
+   a:active  {color:yellow; text-decoration:underline}
+}
+
 .navigation-list{
     list-style: none;
 }

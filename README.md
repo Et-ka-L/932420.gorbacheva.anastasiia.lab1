@@ -1,4 +1,4 @@
 #  Labs in Web
-Lab 1 in Web. Theme - Future and concept arts.
-Студент: Горбачева Анастасия Николаевна
+Lab 1 in Web. Theme - Future and concept arts.<br>
+Студент: Горбачева Анастасия Николаевна<br>
 Группа: 932420
